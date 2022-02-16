@@ -1,0 +1,8 @@
+#1	?calculations
+#1.0	?sideA
+#1.0	?sideB
+#1.0	?sideC
+#1	?precision
+#1.0	?lastPerimeter
+#1.0	?lastArea
+#String	?lastType
